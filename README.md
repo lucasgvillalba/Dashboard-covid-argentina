@@ -32,5 +32,5 @@ Brindar una herramienta visual y dinámica que permita explorar:
 
 ## 👨‍💻 Autor
 
-Lucas — Licenciatura en Ciencia de Datos · Proyecto personal de visualización sanitaria
+Lucas Villalba — Licenciatura en Ciencia de Datos · Proyecto en conjunto de visualización sanitaria
 
